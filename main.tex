@@ -7,6 +7,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%% PACKAGE starts HERE %%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
 \usepackage{caption}
+\captionsetup[table]{name=Tabel}
 \captionsetup[figure]{name=Gambar}
 \usepackage{tabulary}   
 % \usepackage{amsmath}
@@ -90,7 +91,7 @@
 \pagestyle{fancy}
 \lhead{ \student }
 \rhead{ \thepage}
-\cfoot{\textbf{Judul Tugas diketik di sini}} % ini untuk judul tugas
+\cfoot{\textbf{HandsOn 1 : Working With Linux}} % ini untuk judul tugas
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
@@ -124,77 +125,109 @@ Mata Kuliah: \course \hfill Tanggal: \today\\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BODY DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Tujuan Hand On}
-    Hands on ini meruupakan bentuk lain dari praktikum matakuliah Sistem Operasi yang berguna untuk meningkatkan kemampuan personal setiap mahasiswa. Dengan adanya hands on ini mahasiswa diharaokanj dapat mengembangkan pengetahuan yang telah di peroleh dari kelas dan dapat di manfaatkan pada saat yang di butuhkan.
+	Hands on ini merupakan bentuk lain dari Praktikum matakuliah Sistem Operasi yang bertujuan untuk
+	memeperkenalkan Sitem Operasi Linux kepada mahasiswa.
+	Dengan di perkenalkannya Sitem Optrasi linux,
+	diharapkan mahasiwa dapat mengenmbngkan pemahamannya dan juga dapet bermanfaat pada saat tertentu juka di butuhkan.
 
-\section{Cara Mencantumkan Link}
-    Anda dapat memulai belajar menulis di \LaTeX dengan menulis tugas atau laporan yang sesungguhnya. Pada awalnya mungkin terasa sulit. Namun jika anda dengan tekun tetap berlatih, justru menulis di LaTeX akan membuat anda terbiasa dan malah lebih menyenangkan ketimbang menulis di Microsoft Word.\\
-    Jika anda ingin mencantumkan link di \LaTeX anda dapat melakukannya dengan perintah $\backslash${\tt{href}}, misalnya pada tautan berikut ini \href{http://aldi_tob_2000.staff.gunadarma.ac.id/Downloads/files/17359/Membuat+dokumen+dengan+latex.pdf}{(Sumber: PDF Tutorial Belajar Latex)}.
+\section{Spesifikasi Sistem}
+    Sistem yang digunakan adalah sebuah sistem berbasis Linux versi Ubuntu 20.04 LTS. Untuk Sistem bisa mengunakan Boot langsung, atau mengunakan sitem virtual Mecine. selain sitem itu sendiri dibutuhkan sebuah browser yang terinstall di sitem opreasi linux.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{figure/VM ware.png}
+		\caption{boot Ubuntu melalui VM ware}
+	\end{figure}
+ 
+\section{Pembahasan Tut 1}
+\subsection{Tut 1.1 echo}
+    Pada bagian ini, sistem menjalankan perintah \textit{echo}, di mana user mengetikkan "echo Hello World" dan kemudian di exekkusi oleh sistem.
+	fungsi \textit{echo} berfungsi untuk mencetak atau menampilakan kata pada layar.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{figure/tut1_bagian1.png}
+		\caption{perintah \textit{echo}}
+	\end{figure}
+
+\subsection{Tut 1.2 man}
+	Pada bagian ini menjalanan perintah sistem yang bermana \textit{man}. \textit{man} merfungsi untuk menjalankan page maunal. Dan menampilkan manual user untuk syntak yang di inputkan setelahnya.
     
-\subsection{Sub Header atau Sub Chapter}
-     Untuk menggunakan subheader, anda cukup membuat $\backslash${\tt{subsection}} atau bahkan  $\backslash${\tt{subsubsection}} untuk sub-sub bab. Lalu bagaimana untuk membuat subheader atau bahkan header namun tanpa penomoran? Cek keterangan di bawah ini.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{figure/tut1_bagian2.png}
+		\caption{periuntah \textit{man}}
+	\end{figure}
 
-\subsection*{Sub Header atau Sub Chapter}
-    Untuk menggunakan subheader, anda cukup membuat $\backslash${\tt{subsection}} atau bahkan  $\backslash${\tt{subsubsection}} untuk sub-sub bab. Lalu bagaimana untuk membuat subheader atau bahkan header namun tanpa penomoran? Cek keterangan di bawah ini.
-\subsection*{Sub Caption}
-    Untuk menggunakan subcaption, anda cukup membuat $\backslash${\tt{subcaption}} atau bahkan  $\backslash${\tt{subsubcaption}} untuk sub-sub bab. Lalu bagaimana untuk membuat subcaption atau bahkan caption namun tanpa penomoran? Cek keterangan di bawah ini.
-\subsection{Bold, Italic, Plaintext}
-\begin{itemize}
-    \item Anda dapat membuat cetak tebal dengan perintah $\backslash${\tt{textbf}} seperti \textbf{berikut ini}.
-    \item Anda dapat membuat cetak miring dengan perintah $\backslash${\tt{textit}} seperti \textit{berikut ini}. \item Untuk menggaris bawahi, tinggal ketikkan perintah $\backslash${\tt{underline}} seperti \underline{berikut ini}.
-    \item Untuk membuat list seperti tulisan ini, gunakan perintah $\backslash${\tt{item}} diantara
-\end{itemize}
+\subsection{Tut 1.3 \textit{echo Shell}}
+	Pada bagian ini menjalanan perintah sistem yang bermana \textit{echo}, akan tetapi perintah selanjutnya si ketikan \textit{Shell} dan \textit{bin/bash}.
+	Maka sitem akan mencetak alamat \textit{bin/bash} dan juga "bin/bash" sebagai kata yang dicetakan.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{figure/tut1_bagian3.png}
+		\caption{perintah echo Shell}
+	\end{figure}
 
-\subsection{Code Snippets}
-    Berikut ini adalah contoh dari penggunaan $\backslash${\tt{begin{lstlisting}}} untuk menulis potongan kode. Dalam kasus ini saya menggunakan bahasa Python. Jika anda menggunakan C atau yang lainnya, tinggal sesuaikan di bagian parameter dari $\backslash${\tt{begin{lstlisting}}}. Anda dapat melihatnya pada code snipptes \ref{labelkode}
-    
-    \begin{lstlisting}[language=Python, caption=Captionnya tulis di sini class,label={labelkode}]
-    class SynthiaDataset(Dataset):
+\subsection{Tut 1.4 menjalankan beberapa \textit{comand} linux}
+	Pada bagian 4 mahasiswa diminta untuk mempelajari berapa \textit{comand} bash linux melalui page \textit{man} dan kemudian menjalankanya.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.6\textwidth, ]{figure/tut1_bagian4.png}
+		\caption{menjalankan beberapa \textit{comand} linux}
+	\end{figure}
 
-    CLASSES = [
-        "void", "road", "sidewalk", "building", "wall", "fence", "pole", "traffic light", 
-        "traffic sign", "vegetation", "terrain", "sky", "person", "rider", "car", "truck", 
-        "bus", "train", "motorcycle", "bicycle", "road lines", "other", "road works"
-    ]
-    
-    def __init__(self, path="../SYNTHIA-SF", classes=None, augmentation=None, preprocessing=None, valid=False):
-        self.rootdir = Path(path)
-        self.data_imgs, self.data_gts = self.prepare_data(valid,path)
-        self.valid = valid
 
-    
-        if classes == None:
-            classes = self.CLASSES 
-        self.class_values = [self.CLASSES.index(cls.lower()) for cls in classes]
-        
-        self.augmentation = augmentation
-        self.preprocessing = preprocessing
-    \end{lstlisting}
+\section{Pembahasan Tut 2}
+Pada Tut 2 kita diminta untuk membuat sebuah file yang berjenis txt, yang berisi beberapa baris kalimat. kemudian kita diminta memasukan perintah \textit{sed} untuk menghapus 1 huruf awal dan 1 huruf akhir di setiap baris. selain itu kita juga diminta untuk memasukan \textit{grep} untuk mencari suatu kata dan mengeluarkan berapa kali kata tersebut kelauar.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{figure/tut2.png}
+		\caption{Perintah \textit{sed} dan \textit{sed}}
+	\end{figure}
+\subsection*{perintah sed}
+	\textit{sed} berfungsi untuk menghapus \textit{string} atau \textit{char} tergantung formating yang diberikan.
+	
+\subsection*{perintah grep}
+	\textit{sed} berfungsi untuk mencari suatu \textit{string} atau \textit{char} yang ada di sebuah file. \textit{sed} juga dapat menentukan berapakali \textit{string} atau \textit{char} tersebut keluar di sebuah file dengan cara menginputkan formating "-c" setelah syntak \textit{sed} 
 
-\section{Memuat Multi-Gambar}
-Berikut ini adalah contoh cara untuk memuat multi-gambar.
-
+\newpage
+\section{Pembahasan Tut 3}
 \begin{figure}[h]
 	\centering
-	\begin{subfigure}[b]{0.4\textwidth}
-		\centering
-		\def\svgwidth{\columnwidth}
-		\includegraphics[width=1\textwidth]{figure/tut1_bagian1.png}
-		\caption{Augment Result 1}
-		\label{fig:aug-1}
-	\end{subfigure}
-	\qquad %add desired spacing between images, e. g. ~, \quad, \qquad, \hfill etc. 
-	%(or a blank line to force the subfigure onto a new line)
-	\begin{subfigure}[b]{0.4\textwidth}
-		\centering
-		\def\svgwidth{\columnwidth}
-		\includegraphics[width=1\textwidth]{figure/tut1_bagian2.png}
-		\caption{Augment Result 2}
-		\label{fig:aug-2}
-	\end{subfigure}
-	\caption{Augmentation Samples}\label{fig:aug}
+	\includegraphics[width=0.8\textwidth ]{figure/tut3.png}
+	\caption{Tut 3}
 \end{figure}
+	Sada bagian Tut 3, user membuat sebuah file baru dengan sh. file ini dapat di buat dengan menegtikan \textit{touch} [nama file]. kemudian file tersebut di isi dengan code \textit{acho Hellwo world}. ini dapat kita lakukan dengan mengetikan \textit{echo "echo hello world" >} [nama File].\\
+	Setelah file tersebut jadi, ketikan \textit{cat} [nama file] untuk menampilkan isi penuh dari file tersebut.
+	Selanjutnya ketikan \textit{chmod +x } [nama file] dan selanjutnya .$\backslash$ [nama file] untuk menjalankan file tersebut. Maka program akan menampilkan kata yang diketikan tanpa \textit{echo}.
 
+\newpage
+\section{Assignment 6}
+Pada assignment 6, kita diminta untuk mengubah \textit{string} yang ada dalam suatu file yang mulanya terdiri dari huruf kecil ke
+huruf bersar semua.
+\subsection*{source code}
+\begin{lstlisting}[language=bash, caption={source code}]
+	# get file name
+	echo -n "Enter file name: "
+	read file_name
+	cat $file_name
+
+	echo " "
+	if [ -f $file_name ]
+	then
+		echo "File exists"
+		tr '[a-z]' '[A-Z]' < $file_name
+	else
+		echo "File does not exist"
+	fi
+
+\end{lstlisting}
+\subsection*{picture}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.93\textwidth]{figure/task_6.png}
+	\caption{Assignment 6}
+\end{figure}
 
 \newpage
 \section{Memuat Gambar}
