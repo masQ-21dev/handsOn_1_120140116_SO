@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  7 MAR 2022 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  7 MAR 2022 00:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -968,14 +968,14 @@ Overfull \hbox (19.98889pt too wide) in paragraph at lines 130--134
 <figure/VM ware.png, id=65, 537.50812pt x 442.65375pt>
 File: figure/VM ware.png Graphic file (type png)
 <use figure/VM ware.png>
-Package pdftex.def Info: figure/VM ware.png  used on input line 139.
+Package pdftex.def Info: figure/VM ware.png  used on input line 140.
 (pdftex.def)             Requested size: 386.95897pt x 318.6699pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 145.
+(Font)              scaled to size 10.95pt on input line 146.
 <figure/tut1_bagian1.png, id=66, 1927.2pt x 979.66pt>
 File: figure/tut1_bagian1.png Graphic file (type png)
 <use figure/tut1_bagian1.png>
-Package pdftex.def Info: figure/tut1_bagian1.png  used on input line 149.
+Package pdftex.def Info: figure/tut1_bagian1.png  used on input line 150.
 (pdftex.def)             Requested size: 386.95897pt x 196.6909pt.
 [1
 Non-PDF special ignored!
@@ -985,82 +985,84 @@ Non-PDF special ignored!
 <figure/tut1_bagian2.png, id=77, 1927.2pt x 979.66pt>
 File: figure/tut1_bagian2.png Graphic file (type png)
 <use figure/tut1_bagian2.png>
-Package pdftex.def Info: figure/tut1_bagian2.png  used on input line 158.
+Package pdftex.def Info: figure/tut1_bagian2.png  used on input line 159.
 (pdftex.def)             Requested size: 386.95897pt x 196.6909pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 162.
+(Font)              scaled to size 12.0pt on input line 163.
 <figure/tut1_bagian3.png, id=78, 1927.2pt x 1084.05pt>
 File: figure/tut1_bagian3.png Graphic file (type png)
 <use figure/tut1_bagian3.png>
-Package pdftex.def Info: figure/tut1_bagian3.png  used on input line 167.
+Package pdftex.def Info: figure/tut1_bagian3.png  used on input line 168.
 (pdftex.def)             Requested size: 386.95897pt x 217.64977pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 170.
+(Font)              scaled to size 10.95pt on input line 171.
  [2 <./figure/tut1_bagian1.png> <./figure/tut1_bagian2.png>]
 <figure/tut1_bagian4.png, id=88, 1029.8475pt x 783.92876pt>
 File: figure/tut1_bagian4.png Graphic file (type png)
 <use figure/tut1_bagian4.png>
-Package pdftex.def Info: figure/tut1_bagian4.png  used on input line 175.
+Package pdftex.def Info: figure/tut1_bagian4.png  used on input line 176.
 (pdftex.def)             Requested size: 290.22107pt x 220.91005pt.
 <figure/tut2.png, id=89, 893.3375pt x 688.5725pt>
 File: figure/tut2.png Graphic file (type png)
 <use figure/tut2.png>
-Package pdftex.def Info: figure/tut2.png  used on input line 184.
+Package pdftex.def Info: figure/tut2.png  used on input line 187.
 (pdftex.def)             Requested size: 386.95897pt x 298.2658pt.
  [3 <./figure/tut1_bagian3.png> <./figure/tut1_bagian4.png>] [4 <./figure/tut2.png>]
 <figure/tut3.png, id=107, 893.3375pt x 647.41875pt>
 File: figure/tut3.png Graphic file (type png)
 <use figure/tut3.png>
-Package pdftex.def Info: figure/tut3.png  used on input line 197.
+Package pdftex.def Info: figure/tut3.png  used on input line 200.
 (pdftex.def)             Requested size: 386.95897pt x 280.43942pt.
  [5 <./figure/tut3.png>] (c:/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (c:/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 209.
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 209.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 212.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 212.
  (c:/texlive/2021/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 209.
+(Font)              scaled to size 9.85492pt on input line 212.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 209.
+(Font)              scaled to size 8.09995pt on input line 212.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 210.
+(Font)              scaled to size 9.0pt on input line 213.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 210.
-LaTeX Font Info:    Trying to load font information for TS1+fvm on input line 219.
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Trying to load font information for TS1+fvm on input line 222.
  (c:/texlive/2021/texmf-dist/tex/latex/bera/ts1fvm.fd
 File: ts1fvm.fd 2004/09/07 scalable font definitions for TS1/fvm.
 )
 LaTeX Font Info:    Font shape `TS1/fvm/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 219.
+(Font)              scaled to size 8.09995pt on input line 222.
 <figure/task_6.png, id=115, 1927.2pt x 1084.05pt>
 File: figure/task_6.png Graphic file (type png)
 <use figure/task_6.png>
-Package pdftex.def Info: figure/task_6.png  used on input line 229.
+Package pdftex.def Info: figure/task_6.png  used on input line 232.
 (pdftex.def)             Requested size: 449.83453pt x 253.0315pt.
  [6 <./figure/task_6.png>]
 <figure/task_8.png, id=139, 1927.2pt x 1084.05pt>
 File: figure/task_8.png Graphic file (type png)
 <use figure/task_8.png>
-Package pdftex.def Info: figure/task_8.png  used on input line 251.
+Package pdftex.def Info: figure/task_8.png  used on input line 254.
 (pdftex.def)             Requested size: 449.83453pt x 253.0315pt.
  [7 <./figure/task_8.png>]
 <figure/task_9.png, id=159, 1927.2pt x 1084.05pt>
 File: figure/task_9.png Graphic file (type png)
 <use figure/task_9.png>
-Package pdftex.def Info: figure/task_9.png  used on input line 284.
+Package pdftex.def Info: figure/task_9.png  used on input line 287.
 (pdftex.def)             Requested size: 449.83453pt x 253.0315pt.
  [8 <./figure/task_9.png>]
-LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 297.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 14.4pt on input line 298.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 300.
  (c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 297.
+(Font)              scaled to size 10.95pt on input line 300.
 
 
 Package caption Warning: Unused \captionsetup[table] on input line 10.
@@ -1068,18 +1070,18 @@ See the caption package documentation for explanation.
 
 [9] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5D0127618BB83632F9965C1474B76E01;1890.
+(rerunfilecheck)             Checksum: E43606E0C5282BA842E9D0FDF65131D2;1979.
  ) 
 Here is how much of TeX's memory you used:
- 30617 strings out of 478276
- 541883 string characters out of 5850490
- 1170924 words of memory out of 5000000
- 48161 multiletter control sequences out of 15000+600000
- 535555 words of font info for 83 fonts, out of 8000000 for 9000
+ 30619 strings out of 478276
+ 541943 string characters out of 5850490
+ 1170930 words of memory out of 5000000
+ 48162 multiletter control sequences out of 15000+600000
+ 540992 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,99p,3287b,1552s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on main.pdf (9 pages, 8399225 bytes).
+Output written on main.pdf (9 pages, 8401314 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams
