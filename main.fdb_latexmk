@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1646553304 "main.aux" "main.bbl" "main" 1646553309
+["bibtex main"] 1646556535 "main.aux" "main.bbl" "main" 1646556540
   "Referensi.bib" 0 -1 0 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1646537140 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1646553307 2390 c37f6f071a1b0b2bd30525179aad5dc1 "pdflatex"
+  "main.aux" 1646556539 2390 dbe8fb58fe357af9193ac8191a0df607 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1646553304 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646553309
-  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646553302 8105 019de3967b42256e83814b51bb1dce60 ""
+["pdflatex"] 1646556535 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646556540
+  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646556529 8569 0e98f7f89b06ece6856898e5fe20182a ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1646536211 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1646537584 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1646537584 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -244,10 +244,10 @@
   "figure/ifitera-header.png" 1646533815 105262 7fe1bcaf31c1fe943ce3e952b4c15ef1 ""
   "figure/tut1_bagian1.png" 1646551630 1897440 0b33e38237a062581510db165a36668e ""
   "figure/tut1_bagian2.png" 1646551630 2019374 2dce63a082aeff84756d8058672f02ca ""
-  "main.aux" 1646553307 2390 c37f6f071a1b0b2bd30525179aad5dc1 "pdflatex"
+  "main.aux" 1646556539 2390 dbe8fb58fe357af9193ac8191a0df607 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1646553307 1064 1c384e631f56cfc4710c957f495588d2 "pdflatex"
-  "main.tex" 1646553302 8105 019de3967b42256e83814b51bb1dce60 ""
+  "main.out" 1646556539 1064 1c384e631f56cfc4710c957f495588d2 "pdflatex"
+  "main.tex" 1646556529 8569 0e98f7f89b06ece6856898e5fe20182a ""
   (generated)
   "main.aux"
   "main.log"
