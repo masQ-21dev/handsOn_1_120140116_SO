@@ -1380,9 +1380,17 @@ INPUT ./figure/task_9.png
 INPUT figure/task_9.png
 INPUT ./figure/task_9.png
 INPUT ./figure/task_9.png
+INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
+INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc
 INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc
 INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc

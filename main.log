@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  6 MAR 2022 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  7 MAR 2022 00:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1054,29 +1054,35 @@ File: figure/task_9.png Graphic file (type png)
 <use figure/task_9.png>
 Package pdftex.def Info: figure/task_9.png  used on input line 284.
 (pdftex.def)             Requested size: 449.83453pt x 253.0315pt.
- [8 <./figure/task_9.png>] [9]
-No file main.bbl.
+ [8 <./figure/task_9.png>]
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 297.
+ (c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 297.
+
 
 Package caption Warning: Unused \captionsetup[table] on input line 10.
 See the caption package documentation for explanation.
 
-(./main.aux)
+[9] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5D0127618BB83632F9965C1474B76E01;1890.
  ) 
 Here is how much of TeX's memory you used:
- 30588 strings out of 478276
- 540964 string characters out of 5850490
- 1170926 words of memory out of 5000000
- 48137 multiletter control sequences out of 15000+600000
- 534852 words of font info for 81 fonts, out of 8000000 for 9000
+ 30617 strings out of 478276
+ 541883 string characters out of 5850490
+ 1170924 words of memory out of 5000000
+ 48161 multiletter control sequences out of 15000+600000
+ 535555 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,99p,3287b,1552s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on main.pdf (9 pages, 8397739 bytes).
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
+Output written on main.pdf (9 pages, 8399214 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
+ 251 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
  84 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
