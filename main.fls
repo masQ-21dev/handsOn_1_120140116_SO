@@ -1286,12 +1286,12 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/tex/latex/bera/t1fvm.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/bera/t1fvm.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/bera/t1fvm.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/bera/t1fvm.fd
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/bera/fvmr8t.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
@@ -1308,10 +1308,10 @@ INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
