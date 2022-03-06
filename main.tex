@@ -202,11 +202,11 @@ Pada Tut 2 kita diminta untuk membuat sebuah file yang berjenis txt, yang berisi
 	Selanjutnya ketikan \textit{chmod +x } [nama file] dan selanjutnya .$\backslash$ [nama file] untuk menjalankan file tersebut. Maka program akan menampilkan kata yang diketikan tanpa \textit{echo}.
 
 \newpage
-\section{Assignment 6}
-Pada assignment 6, kita diminta untuk mengubah \textit{string} yang ada dalam suatu file yang mulanya terdiri dari huruf kecil ke
+\section{Assingment 6}
+Pada assingment 6, kita diminta untuk membuat \textit{source code} yang berfungsi untuk mengubah \textit{string} yang ada dalam suatu file yang mulanya terdiri dari huruf kecil ke
 huruf bersar semua.
 \subsection*{source code}
-\begin{lstlisting}[language=bash, caption={source code}]
+\begin{lstlisting}[language=bash, caption={source code Assingment 6}]
 	# get file name
 	echo -n "Enter file name: "
 	read file_name
@@ -222,19 +222,79 @@ huruf bersar semua.
 	fi
 
 \end{lstlisting}
+
 \subsection*{picture}
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.93\textwidth]{figure/task_6.png}
-	\caption{Assignment 6}
+	\caption{Detail Assignment 6}
 \end{figure}
+
+\newpage
+\section{Assingment 8}
+perintah assingment 8 adalah memebuat sebuah \textit{code} program yang berfungsi untuk menetukan baris mana yang akan di proses dalam suatu file dengan format .sh atau .txt yang sudah dibuat sebelumnya.
+\subsection*{source code}
+\begin{lstlisting}[language=bash, caption={source code Assingment 8}]
+	echo -n "input file name : "
+	read file
+	echo -n "input line permulan ynag ingin di outputkan  : "
+	read s
+	echo -n "input line akhir yang ingin di outputkan  : "
+	read n
+	sed -n $s,$n\p $file | cat > newline
+	cat newline
+\end{lstlisting}
+
+\subsection*{picture}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.93\textwidth]{figure/task_8.png}
+	\caption{Detail Assignment 8}
+\end{figure}
+
+\newpage
+\section{Assingment 9}
+Assingment 9 memerintahkan kita unt7k membuat sebuah \textit{code} program yang bertujuan untuk mencari sebuah kata yang ada di dalam suatu file.
+Kemudian menghapus \textit{line} dimana kata tersebut berada.
+\subsection*{source code}
+\begin{lstlisting}[language=bash, caption={source code Assingment 9}]
+	echo -n "masukan kata untuk mencocokkan isi dalam line yang akan di hapus : "
+	read kata
+
+	for file in $@
+	do
+		if [ -f $file ]
+		then
+			echo "ISI SEBELUM DI HAPUS "
+			cat $file
+			sed -i "/$kata/d" $file
+
+			echo \ "ISI SETELAH DI HAPUS "
+			cat $file
+		else 
+			echo "file tidak ada"
+		fi
+	done
+	echo -n
+\end{lstlisting}
+
+\subsection*{picture}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.93\textwidth]{figure/task_9.png}
+	\caption{Detail Assignment 9}
+\end{figure}
+
+
+
+
 
 \newpage
 \section{Memuat Gambar}
 Berikut ini adalah contoh cara untuk memuat multi-gambar.
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.8\textwidth]{figure/tut1_bagian1.png}
+    \includegraphics[width=0.93\textwidth]{figure/task_8.png}
     \caption{Ini Captionnya}
     \label{fig:my_label}
 \end{figure}

@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1646581676 "main.aux" "main.bbl" "main" 1646581681
+["bibtex main"] 1646583773 "main.aux" "main.bbl" "main" 1646583779
   "Referensi.bib" 0 -1 0 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1646537140 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1646581680 3659 8ba1a227c4db5371f1ecfbdcf8ff6820 "pdflatex"
+  "main.aux" 1646583778 4478 61a27207e3f98f90819f70f868a590c5 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1646581676 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646581681
-  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646581675 9211 6723e7dc29a3d132cf231feddb291f38 ""
+["pdflatex"] 1646583773 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646583779
+  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646583766 10889 f43ee81e425ab726937d9dc973498ba1 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1646536211 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1646537584 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1646537584 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -247,16 +247,18 @@
   "figure/VM ware.png" 1646573785 33694 41b7f621e30d2f76c4a35c60e4c691ee ""
   "figure/ifitera-header.png" 1646533815 105262 7fe1bcaf31c1fe943ce3e952b4c15ef1 ""
   "figure/task_6.png" 1646551630 190019 d014f668c7988b01a9a1f22ea7f2c871 ""
+  "figure/task_8.png" 1646551630 199383 752bd17f05b38765ac81b6474c175539 ""
+  "figure/task_9.png" 1646551630 210299 9743f9aa12bcf3c02a1479691267a573 ""
   "figure/tut1_bagian1.png" 1646551630 1897440 0b33e38237a062581510db165a36668e ""
   "figure/tut1_bagian2.png" 1646551630 2019374 2dce63a082aeff84756d8058672f02ca ""
   "figure/tut1_bagian3.png" 1646551630 2109192 e52b95b6e1b0ca92446790eb6971e1bc ""
   "figure/tut1_bagian4.png" 1646551630 171809 3ea1eeaff9426fe853dc862f9605585c ""
   "figure/tut2.png" 1646551630 134044 88f13905fcf0ca7d0b2538254ddfba58 ""
   "figure/tut3.png" 1646551630 52532 cc7206e6697a4bc563e90fa42879c497 ""
-  "main.aux" 1646581680 3659 8ba1a227c4db5371f1ecfbdcf8ff6820 "pdflatex"
+  "main.aux" 1646583778 4478 61a27207e3f98f90819f70f868a590c5 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1646581680 1535 fce7293bdcf7fe2827c9e05f842accfa "pdflatex"
-  "main.tex" 1646581675 9211 6723e7dc29a3d132cf231feddb291f38 ""
+  "main.out" 1646583778 1749 55a043b019391fd989df0343754596b7 "pdflatex"
+  "main.tex" 1646583766 10889 f43ee81e425ab726937d9dc973498ba1 ""
   (generated)
   "main.aux"
   "main.log"
