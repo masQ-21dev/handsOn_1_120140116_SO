@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  7 MAR 2022 00:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.6)  7 MAR 2022 00:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1079,7 +1079,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,11n,99p,3287b,1552s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on main.pdf (9 pages, 8399214 bytes).
+Output written on main.pdf (9 pages, 8399225 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams
