@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1646583773 "main.aux" "main.bbl" "main" 1646583779
+["bibtex main"] 1646585415 "main.aux" "main.bbl" "main" 1646585422
   "Referensi.bib" 0 -1 0 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1646537140 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1646583778 4478 61a27207e3f98f90819f70f868a590c5 "pdflatex"
+  "main.aux" 1646585420 4312 ec2585f3dcb23edd34ecd4d0d0e87314 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1646583773 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646583779
-  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646583766 10889 f43ee81e425ab726937d9dc973498ba1 ""
+["pdflatex"] 1646585415 "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" "main.pdf" "main" 1646585422
+  "c:/Users/mqoma/Documents/GitHub/hansOn_1__120140116_SO/main.tex" 1646585407 11307 11d1199aae8410b4abbffa8a5afac2ac ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1646536211 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1646537584 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1646537584 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -255,10 +255,10 @@
   "figure/tut1_bagian4.png" 1646551630 171809 3ea1eeaff9426fe853dc862f9605585c ""
   "figure/tut2.png" 1646551630 134044 88f13905fcf0ca7d0b2538254ddfba58 ""
   "figure/tut3.png" 1646551630 52532 cc7206e6697a4bc563e90fa42879c497 ""
-  "main.aux" 1646583778 4478 61a27207e3f98f90819f70f868a590c5 "pdflatex"
+  "main.aux" 1646585420 4312 ec2585f3dcb23edd34ecd4d0d0e87314 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1646583778 1749 55a043b019391fd989df0343754596b7 "pdflatex"
-  "main.tex" 1646583766 10889 f43ee81e425ab726937d9dc973498ba1 ""
+  "main.out" 1646585420 1890 5d0127618bb83632f9965c1474b76e01 "pdflatex"
+  "main.tex" 1646585407 11307 11d1199aae8410b4abbffa8a5afac2ac ""
   (generated)
   "main.aux"
   "main.log"
